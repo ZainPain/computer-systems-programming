@@ -1,0 +1,39 @@
+calc.cpp: In member function ‘void RationalNumber::set_value(int, int)’:
+calc.cpp:315: error: call of overloaded ‘abs(int&)’ is ambiguous
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:94: note: candidates are: double std::abs(double)
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:98: note:                 float std::abs(float)
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:102: note:                 long double std::abs(long double)
+calc.cpp: In member function ‘int RationalNumber::gcd(int, int)’:
+calc.cpp:332: error: call of overloaded ‘abs(int&)’ is ambiguous
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:94: note: candidates are: double std::abs(double)
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:98: note:                 float std::abs(float)
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:102: note:                 long double std::abs(long double)
+calc.cpp:333: error: call of overloaded ‘abs(int&)’ is ambiguous
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:94: note: candidates are: double std::abs(double)
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:98: note:                 float std::abs(float)
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/cmath:102: note:                 long double std::abs(long double)
+
+Test 1 (45 points if diff is empty)
+Output for test 1 differs
+
+Test Real (15 points if diff is empty)
+Output for test real differs
+
+Test Complex (15 points if diff is empty)
+Output for test complex differs
+
+Test Rational (15 points if diff is empty)
+Output for test rational differs
+
+Grade
+*****
+Late submission: 0
+Functionality: 80
+Style/Comments: 5
+Intro Paragraph: 5
+Total: 90
+
+Comments
+********
+
+

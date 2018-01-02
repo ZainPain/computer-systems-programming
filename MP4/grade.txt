@@ -1,0 +1,37 @@
+Compilation Results:
+*******************
+
+Testing three output files
+Files ./teststu_output1 and ./testgold_output1 differ
+Files ./teststu_output2 and ./testgold_output2 differ
+Files ./teststu_output3 and ./testgold_output3 differ
+*******3 Outputs Do Not Match Exactly 0/10*******
+Testing set_seed:
+set_seed: invalid seed.
+set_seed return value correct (10pts)
+set_seed call srand correct (10pts)
+*******total set_seed score: 20/20*******
+Testing start_game:
+start_game random number correct (15pts)
+start_game output correct (5pts)
+*******total start_game score: 20/20*******
+Testing make_guess output:
+make_guess: invlaid guess
+ make_guess return value correct (10pts) 
+With guess 1, you got 4 perfect matches and 0 misplaced matches.
+make_guess output value correct (10pts)
+*******make_guess output score: 20/20*******
+With guess 1, you got 4 perfect matches and 0 misplaced matches.
+*******make_guess perfect correct, 10/10*******
+With guess 1, you got 0 perfect matches and 2 misplaced matches.
+*******make_guess misplaced correct, 10/10*******
+Grade
+*****
+Late submission: 
+Functionality: 80
+Style/Comments: 5
+Intro Paragraph: 5
+Total: 90
+
+Comments
+********

@@ -1,0 +1,51 @@
+Compilation Results:
+*******************
+g++ -Wall -O3 -c tLib_graphics.cpp -o tLib_graphics.o `pkg-config --libs --cflags cairo`
+g++ -Wall -O3 -c floorplan.c -o floorplan.o  `pkg-config --libs --cflags cairo`
+g++ -Wall -O3 -c main.c -o main.o `pkg-config --libs --cflags cairo`
+g++ -Wall -O3 tLib_graphics.o floorplan.o main.o `pkg-config --libs --cflags cairo` -L./lib -ltest -o floorplanner 
+
+
+********************************** MP10 **********************************
+Initial slicing tree: Root=0x23f40d0, num_nodes=13, num_modules=7
+Initial expression: 65V4V3V2V1V0V
+Initial area: 1.95017e+06
+Perform optimization...
+Module 0 is placed at (0, 424) with height=382 and width=979
+Module 1 is placed at (1383, 0) with height=805 and width=498
+Module 2 is placed at (0, 0) with height=368 and width=780
+Module 3 is placed at (979, 424) with height=364 and width=345
+Module 4 is placed at (780, 0) with height=114 and width=430
+Module 5 is placed at (1047, 114) with height=310 and width=336
+Module 6 is placed at (780, 114) with height=236 and width=267
+Packing area = 1.51609e+06 (has overlapped? 0 (1:yes, 0:no))
+Draw floorplan to circuit3.png
+********************************** END ***********************************
+
+****************************** VERIFICATION ******************************
+Circuit: 7 golden_modules, slicing tree size = 7 leaves and 6 internals
+(1) Function  'init_slicing_tree': correct!   +25
+(2) Function  'is_leaf'          : correct!   +5
+(3) Function  'is_internal'      : correct!   +5
+(4) Function  'is_in_subtree'    : correct!   +10
+(5) Procedure 'rotate'           : correct!   +5
+(6) Procedure 'recut'            : correct!   +5
+(7) Procedure 'swap_module'      : correct!   +5
+(8) Procedure 'swap_topology'    : correct!   +10
+(9) Procedure 'get_expression'   : correct!   +20
+Your final score for this MP     : 90
+**************************** END VERIFICATION ****************************
+
+
+Grade
+*****
+Late submission: 0
+Functionality: 90
+Style/Comments: 5
+Intro Paragraph: 5
+Total: 100
+
+Comments
+********
+
+

@@ -1,0 +1,89 @@
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: -7.3
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: 5.5
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: -9.3
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: 3
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:

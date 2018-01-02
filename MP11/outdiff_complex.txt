@@ -1,0 +1,92 @@
+1c1,89
+< timeout: failed to run command `./calc': No such file or directory
+---
+> -------------------------------------
+> Options
+> 1)Add with real (+) 
+> 2)Subtract with real (-)
+> 3)Multiplay with real (*)
+> 4)Division with real (\)
+> 5)Add with complex (+) 
+> 6)Subtract with complex (-)
+> 7)Multiplay with complex (*)
+> 8)Division with complex (\)
+> 9)Add with rational (+) 
+> 10)Subtract with rational (-)
+> 11)Multiplay with rational (*)
+> 12)Division with rational (\)
+> 0)Exit
+> -------------------------------------
+> Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 8.3 + 0.7i
+> 
+> -------------------------------------
+> Options
+> 1)Add with real (+) 
+> 2)Subtract with real (-)
+> 3)Multiplay with real (*)
+> 4)Division with real (\)
+> 5)Add with complex (+) 
+> 6)Subtract with complex (-)
+> 7)Multiplay with complex (*)
+> 8)Division with complex (\)
+> 9)Add with rational (+) 
+> 10)Subtract with rational (-)
+> 11)Multiplay with rational (*)
+> 12)Division with rational (\)
+> 0)Exit
+> -------------------------------------
+> Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 2.4 + -8.1i
+> 
+> -------------------------------------
+> Options
+> 1)Add with real (+) 
+> 2)Subtract with real (-)
+> 3)Multiplay with real (*)
+> 4)Division with real (\)
+> 5)Add with complex (+) 
+> 6)Subtract with complex (-)
+> 7)Multiplay with complex (*)
+> 8)Division with complex (\)
+> 9)Add with rational (+) 
+> 10)Subtract with rational (-)
+> 11)Multiplay with rational (*)
+> 12)Division with rational (\)
+> 0)Exit
+> -------------------------------------
+> Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 27.84 + -13.12i
+> 
+> -------------------------------------
+> Options
+> 1)Add with real (+) 
+> 2)Subtract with real (-)
+> 3)Multiplay with real (*)
+> 4)Division with real (\)
+> 5)Add with complex (+) 
+> 6)Subtract with complex (-)
+> 7)Multiplay with complex (*)
+> 8)Division with complex (\)
+> 9)Add with rational (+) 
+> 10)Subtract with rational (-)
+> 11)Multiplay with rational (*)
+> 12)Division with rational (\)
+> 0)Exit
+> -------------------------------------
+> Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 0 + -1i
+> 
+> -------------------------------------
+> Options
+> 1)Add with real (+) 
+> 2)Subtract with real (-)
+> 3)Multiplay with real (*)
+> 4)Division with real (\)
+> 5)Add with complex (+) 
+> 6)Subtract with complex (-)
+> 7)Multiplay with complex (*)
+> 8)Division with complex (\)
+> 9)Add with rational (+) 
+> 10)Subtract with rational (-)
+> 11)Multiplay with rational (*)
+> 12)Division with rational (\)
+> 0)Exit
+> -------------------------------------
+> Enter an option:

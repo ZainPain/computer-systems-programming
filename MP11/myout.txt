@@ -1,0 +1,233 @@
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: 10.8
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: 20.5
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: 28.83
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter a real number: Enter another real number: RealNumber: -7
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 4 + 6i
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: -2 + -2i
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 11 + -2i
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the real part of a complex number: Enter the imag part of a complex number: Enter the real part of another complex number: Enter the imag part of another complex number: ComplexNumber: 2.2 + -0.4i
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the numerator of a rational number: Enter the denominator of a rational number: Enter the numerator of another rational number: Enter the denominator of another rational number: RationalNumber: 1 / 2
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the numerator of a rational number: Enter the denominator of a rational number: Enter the numerator of another rational number: Enter the denominator of another rational number: RationalNumber: 1 / 2
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the numerator of a rational number: Enter the denominator of a rational number: Enter the numerator of another rational number: Enter the denominator of another rational number: RationalNumber: -3 / 2
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:Enter the numerator of a rational number: Enter the denominator of a rational number: Enter the numerator of another rational number: Enter the denominator of another rational number: RationalNumber: 26 / 15
+
+-------------------------------------
+Options
+1)Add with real (+) 
+2)Subtract with real (-)
+3)Multiplay with real (*)
+4)Division with real (\)
+5)Add with complex (+) 
+6)Subtract with complex (-)
+7)Multiplay with complex (*)
+8)Division with complex (\)
+9)Add with rational (+) 
+10)Subtract with rational (-)
+11)Multiplay with rational (*)
+12)Division with rational (\)
+0)Exit
+-------------------------------------
+Enter an option:

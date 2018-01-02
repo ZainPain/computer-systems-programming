@@ -1,0 +1,59 @@
+Compilation Results:
+*******************
+gcc -g -std=c99 -Wall  -c grade_mp7.c
+gcc -g -std=c99 -Wall  -c game.c
+gcc -g -std=c99 -Wall  -c getch_fun.c
+gcc -g -std=c99 -Wall  grade_mp7.o test_src/game_test.o game.o getch_fun.o -o grade_mp7
+
+test - make_game() pointer: Pass [+5]
+test - cells pointer: pass [+5]
+test - initialized cells: pass [+10]
+test - num rows and cols: pass [+5]
+Grade: 25 / 25
+
+test - get_cell(): [+3][+2]
+Grade: 5 / 5
+
+test - move_d ret: pass [+1] 
+test - move_d tiles move correctly: pass [+5] 
+test - move_d retest for segfault: pass [+1]
+Grade: 7 / 7
+
+test - move_a tiles: pass [+5] 
+test - move_a ret val + 2nd call: pass [+1]
+Grade: 6 / 6
+
+test - move_w with merge logic: pass [+5]
+test - move_w ret val + 2nd call: pass [+1]
+test - move_w 2nd call + merge: pass [+5]
+Grade: 11 / 11
+
+test - move_s with merge logic: pass [+5]
+test - move_s ret val + 2nd call: pass [+1]
+Grade: 6 / 6
+
+test - legal move check: [+2][+8]
+Grade: 10 / 10
+
+RUN WITH VALGRIND! +5 if no invalid reads or memory leaks
+ test - remake game: [+2][+2]
+ test - rm game rows and cols:   [+2][+4]
+Grade: 10 / 10
+==25795== All heap blocks were freed -- no leaks are possible
+
+RUN WITH VALGRIND! 
+ test - destroy game : +5 if no memory leaks
+==25799== All heap blocks were freed -- no leaks are possible
+
+Grade
+*****
+Late submission: 0
+Functionality: 90
+Style/Comments: 5
+Intro Paragraph: 5
+Total: 100
+
+Comments
+********
+
+

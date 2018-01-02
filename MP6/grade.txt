@@ -1,0 +1,49 @@
+Compilation Results:
+*******************
+g++ -g -c sudoku.c -o sudoku.o
+g++ -g -c main.c -o main.o
+g++ -g main.o sudoku.o sudoku_golden.a -o mp6
+
+------------------
+Input sudoku:
+ 0 4 0 0 0 0 0 0 0
+ 0 0 1 0 0 0 0 0 0
+ 0 6 0 0 2 1 0 0 0
+ 3 5 0 6 0 0 2 4 0
+ 0 0 6 8 0 0 0 1 0
+ 0 2 0 0 0 0 0 0 3
+ 0 0 4 0 0 9 0 0 0
+ 0 0 0 2 0 0 0 8 0
+ 0 0 0 7 0 5 4 0 0
+Your output sudoku:
+ 2 4 3 5 7 6 1 9 8
+ 5 7 1 3 9 8 6 2 4
+ 8 6 9 4 2 1 3 5 7
+ 3 5 8 6 1 7 2 4 9
+ 4 9 6 8 3 2 7 1 5
+ 1 2 7 9 5 4 8 6 3
+ 6 3 4 1 8 9 5 7 2
+ 7 1 5 2 4 3 9 8 6
+ 9 8 2 7 6 5 4 3 1
+------------------
+------------------- Begin Verifying MP6 ---------------------
+[+10]: Your <is_val_in_row> is correct.
+[+10]: Your <is_val_in_col> is correct.
+[+20]: Your <is_val_in_3x3_zone> is correct.
+[+20]: Your <is_val_valid> is correct.
+[+30]: Your <solve_sudoku> is correct.
+[+0]: Your challenge implementation is not correct.
+Your final score for this MP is 90
+-------------------- End Verifying MP6 ----------------------
+Grade
+*****
+Late submission: 0
+Functionality: 90
+Style/Comments: 5
+Intro Paragraph: 5
+Total: 100
+
+Comments
+********
+
+

@@ -1,0 +1,54 @@
+Compilation Results:
+*******************
+g++ -g -Wall  -c grade.c
+g++ -g -Wall  -c lodepng.c
+g++ -g -Wall  -c imageData.c
+g++ -g -Wall  -c functions.c
+g++ -g -Wall  grade.o lodepng.o imageData.o functions.o solution.o -o grade
+
+Testing MP5
+Testing calculateCosineFilter with Radius=1:
+calculateCosineFilter correct (5/5)
+Testing calculateCosineFilter with Radius=2:
+calculateCosineFilter correct (5/5)
+Testing calculateCosineFilter with Radius=3:
+calculateCosineFilter correct (10/10)
+*************calculateCosineFilter Score:20/20*************
+Testing convertToGray
+convertToGray incorrect
+*************convertToGray Score:0/15*************
+Testing invertImage:
+invertImage correct
+*************invertImage Score:15/15*************
+Testing Color Threshold
+ R Thres=20 B Thres = 100 G Thres = 40:
+Color Threshold correct
+*************colorThreshold Score:15/15*************
+Testing convolveImage with Cosine Filter, radius=7:
+convolveImage correct with error 0.000000 < 0.000050
+*************convolveImage Score:25/25*************
+Challenge 1
+Testing transformImage
+transformImage with transform1.txt incorrect with error: 1.000000 > 0.030000 (0/3)
+transformImage with transform2.txt incorrect with error: 1.000000 > 0.030000 (0/4)
+transformImage with transform3.txt incorrect with error: 1.000000 > 0.030000 (0/4)
+transformImage with transform4.txt incorrect with error: 1.000000 > 0.030000 (0/4)
+*************Challenge 1 Score:0/15*************
+Challenge 2
+Detect Seven.png Incorrect row: 0 col: 0 correct row: 100 correct col: 131 
+Detect Eight.png Incorrect row: 0 col: 0 correct row: 165 correct col: 34 
+Detect E.png Incorrect row: 0 col: 0 Correct row: -1 correct col: -1 
+Did not pass at least two tests
+*************Challenge 2 Score:0/15*************
+Grade
+*****
+Late submission: 
+Functionality: 75
+Style/Comments: 5
+Intro Paragraph: 5
+Total: 85
+
+Comments
+********
+
+

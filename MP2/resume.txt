@@ -1,0 +1,79 @@
+Chakradhar Mudium 
+107 E Springfield Ave, Apt 314 
+Champaign IL 61820 
+(217) 979-5376 
+mudium2@illinois.edu 
+--------------------------------------------------------------------------------------------------------------------------
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------------------------------------------------------------
+Education:
+University of Illinois, Urbana-Champaign 
+Champaign, IL 
+May 2016 
+Related Coursework: Applied Parallel Programming, System on chip Design, Computer Systems analysis, Program Verification. 
+GPA: 3.75/4.00 
+--------------------------------------------------------------------------------------------------------------------------
+Indian Institute of Technology, Bombay 
+Mumbai, India 
+May 2014 
+Related Coursework: Digital Systems, Foundations of VLSI CAD, Processor Design, Advanced topics in Computer Architecture. 
+GPA: 8.96/10.00 
+--------------------------------------------------------------------------------------------------------------------------
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------------------------------------------------------------
+ACADEMIC Projects: 
+
+GRADUATE THESIS RESEARCH 
+GUIDE: Prof. Shobha Vasudevan 
+Summer 2015 
+Studied Goldmine, an automatic assertion generation tool that uses static analysis to guide the data-mining engine and produce high quality assertions.  
+Used data abstraction techniques to generate assertions even on data intensive modules in IBM’s Calculator design. 
+Researching the application of similar techniques in System on Chip Validation. 
+GUIDE: Prof. Vivek Borkar 
+--------------------------------------------------------------------------------------------------------------------------
+SUPERVISED RESEARCH 
+GUIDE: Prof. Vivek Borkar
+Spring 2014 
+Heuristic approach for optimal strategies: 
+Surveyed literature on stochastic strategies for maximizing the expected payoffs in the Minority game and the effect of stochastic strategies on it’s extensions. 
+Performed the Monte-Carlo simulations of the minority game on Matlab and found simple heuristics for maximizing the expected payoff. 
+--------------------------------------------------------------------------------------------------------------------------
+UNDERGRADUATE THESIS 
+GUIDE: Prof. Virendra Singh 
+Fall 2014 
+Studied various techniques to improve the performance of Multicore processors and explored a novel architecture called Bulk in particular. 
+Researched the application of the techniques that use simple logic and minimal hardware resources described in BulkSMT to improve the performance of single thread processes. 
+--------------------------------------------------------------------------------------------------------------------------
+SUMMER PROJECT 
+GUIDE: Prof. Maryam Baghini 
+Summer 2013 
+Analyzed the error rate of an Ultra-wideband channel by transmitting a sample image. 
+Worked with an embedded Processor core from Xilinx called Picoblaze for interfacing the onboard Flash memory on the FPGA with the communication channel. 
+--------------------------------------------------------------------------------------------------------------------------
+TECHNOLOGY MAPPING 
+GUIDE: Prof. Sachin Patkar 
+Spring 2013 
+Modeled the technology mapping problem as a tree-covering problem on a graph obtained from the Verilog description of the circuit. 
+Implemented a dynamic programming method using Networkx graph libraries in Python to output a cost minimized technology mapping of the circuit. 
+--------------------------------------------------------------------------------------------------------------------------
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------------------------------------------------------------
+PERSONAL Projects 
+Rubik’s Cube Solver 
+Summer 2012 
+Worked in a team of three in creating a GUI for a Rubik’s cube solver in Matlab. 
+Incorporated a verification algorithm to validate any given cube configuration as legal. 
+Created a toolbox of functions that can be used to implement any cube solving algorithm. 
+Implemented the famous layer algorithm to transform the cube from one state to another. 
+
+Remote controlled Electric switching 
+Summer 2011 
+Designed a cost efficient remote controlled electric switchboard based on RF transceivers. 
+Implemented it using Arduino Hardware board and simple digital circuits on a PCB. 
+--------------------------------------------------------------------------------------------------------------------------
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------------------------------------------------------------
+Technical Skills 
+Languages: C/C++, Python, CUDA, Verilog, VHDL, SystemVerilog. 
+Software tools: Matlab, Altera Quartus, Xilinx ISE, Eagle, Cadence IFV, Synopsis VCS. 
+--------------------------------------------------------------------------------------------------------------------------

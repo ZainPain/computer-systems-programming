@@ -1,0 +1,11 @@
+This is just a sample test bed. You could make some additional tests and test the program.
+
+Run the tests using
+
+    ./calc < tests.txt > myout.txt 
+
+Then find any discrepencies using
+
+    diff myout.txt goldout.txt
+
+Ideally you shouldn't get any output.
